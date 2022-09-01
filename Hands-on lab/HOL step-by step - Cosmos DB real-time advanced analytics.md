@@ -77,7 +77,7 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
 
 <!-- /TOC -->
 
-# Cosmos DB real-time advanced analytics hands-on lab step-by-step
+# Real-time advanced analytics hands-on lab step-by-step
 
 ## Abstract and learning objectives
 
