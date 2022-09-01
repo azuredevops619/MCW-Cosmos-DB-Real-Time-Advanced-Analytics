@@ -36,7 +36,7 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
 
 <!-- /TOC -->
 
-# Cosmos DB real-time advanced analytics before the hands-on lab setup guide
+# Real-time advanced analytics before the hands-on lab setup guide
 
 ## Requirements
 
