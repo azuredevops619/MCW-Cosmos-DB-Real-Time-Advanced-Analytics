@@ -877,7 +877,7 @@ In this task, you will execute Synapse Notebooks to perform both near real-time 
     ![The import button is highlighted.](media/develop-import.png "Import")
     
 ```
-Note: Stop and run the transaction generator again.  
+Note: Stop and run the transaction generator again from Visual studio 2019 VM.
 ```
 
 3. Browse to the location you extracted the MCW repo .zip file to (C:\\CosmosMCW\\) and navigate to the `Hands-on lab\lab-files\synapse` directory. Select the two **`.ipynb`** notebook files in the directory, then select **Open**.
