@@ -272,7 +272,8 @@ Next, you will configure the payment transaction data generator project by compl
 
 17. Save your changes.
 
-```Note: In the next step if the transaction generator fails with missing framework .net 5.0 error then install it manually from here https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=5.0.0&arch=x64&rid=win10-x64
+```
+Note: In the next step if the transaction generator fails with missing framework .net 5.0 error then install it manually from here https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=5.0.0&arch=x64&rid=win10-x64
 + close and open the Visual studio 2019   
 ```
 
