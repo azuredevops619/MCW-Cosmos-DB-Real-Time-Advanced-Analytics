@@ -1590,6 +1590,8 @@ When you connected to the Synapse serverless SQL endpoint for this report, you s
 4. Once again, observe the total `SuspiciousCount` and `NonSuspiciousCount` values on the bottom of the Matrix visualization. The values should be higher than they were before you re-ran the transaction generator and refreshed the report.
 
     ![The new Matrix totals are highlighted.](media/power-bi-matrix-totals-refreshed.png "Matrix totals")
+    
+ 5. Save the report locally. 
 
 <!-- 
 ### Task 5: Publish report and add Power BI Linked Service
