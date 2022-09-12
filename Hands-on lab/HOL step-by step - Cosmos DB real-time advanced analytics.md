@@ -66,6 +66,8 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
     - [Task 2: Create Power BI workspace](#task-2-create-power-bi-workspace)
     - [Task 3: Utilizing Power BI to summarize and visualize global fraud trends](#task-3-utilizing-power-bi-to-summarize-and-visualize-global-fraud-trends)
     - [Task 4: Refresh report](#task-4-refresh-report)
+
+<!--
     - [Task 5: Publish report and add Power BI Linked Service](#task-5-publish-report-and-add-power-bi-linked-service)
     - [Task 6: View the report in Synapse Studio](#task-6-view-the-report-in-synapse-studio)
   - [Exercise 9 (Optional): Collecting streaming transaction data](#exercise-9-optional-collecting-streaming-transaction-data)
@@ -74,7 +76,7 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
     - [Task 3: Choosing between Cosmos DB and Event Hubs for ingestion](#task-3-choosing-between-cosmos-db-and-event-hubs-for-ingestion)
   - [After the hands-on lab](#after-the-hands-on-lab)
     - [Task 1: Delete the resource group](#task-1-delete-the-resource-group)
-
+-->
 <!-- /TOC -->
 
 # Real-time advanced analytics hands-on lab step-by-step
