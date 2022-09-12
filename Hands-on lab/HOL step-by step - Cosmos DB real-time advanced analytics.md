@@ -1591,6 +1591,7 @@ When you connected to the Synapse serverless SQL endpoint for this report, you s
 
     ![The new Matrix totals are highlighted.](media/power-bi-matrix-totals-refreshed.png "Matrix totals")
 
+<!-- 
 ### Task 5: Publish report and add Power BI Linked Service
 
 So far, the report you created is only available to you. To share the report with others, you need to publish it to the Power BI online service. Once you've published your report, you can make it available within Synapse Studio, along with other reports published to your workspace.
@@ -1932,6 +1933,7 @@ Given the requirements provided by the customer, Azure Cosmos DB is the best cho
 
 Finally, the requirement to synchronize/write the ingested data to multiple regions, which could grow at any time, makes Azure Cosmos DB a more favorable choice. As you can see, there are more steps required to send data to additional regions using Event Hubs, since you have to provision new namespaces and Event Hub instances in each region. You would also have to account for all those instances on the consuming side, which we will not cover in this lab for sake of time. The ability to read/write to multiple regions by adding and removing them at will with no code or changes required is a great value that Azure Cosmos DB adds. Plus, the fact that Azure Cosmos DB will be used in this solution for serving batch-processed fraudulent data on a global scale means that Azure Cosmos DB can be used to meet both the data ingest and delivery needs with no additional services, like Event Hubs, required.
 
+--> 
 
 ## After the hands-on lab
 
