@@ -6,6 +6,8 @@ September 2021
 
 ## Target audience
 
+- Data Engineer 
+- Data Analyst
 - Application developer
 - AI developer
 - Data scientist
