@@ -139,7 +139,7 @@ In this task, you create an RDP connection to your Lab virtual machine (VM) and 
 8. Select **Yes** to connect if prompted that the remote computer's identity cannot be verified.
 
    ![In the Remote Desktop Connection dialog box, a warning states that the remote computer's identity cannot be verified and asks if you want to continue anyway. At the bottom, the Yes button is highlighted.](./media/remote-desktop-connection-identity-verification-labvm.png "Remote Desktop Connection dialog")
-
+<!--
 9. Once logged in, select the **Search** icon on the start bar, enter **default apps** into the search box, and select **Default apps** in the search results.
 
     ![The search icon is highlighted on the Windows start bar. In the search dialog, "default apps" is entered into the search box and highlighted. In the search results, Default apps is highlighted.](media/search-default-apps.png "Windows Search")
@@ -153,6 +153,8 @@ In this task, you create an RDP connection to your Lab virtual machine (VM) and 
     ![In the Choose an App dialog, Microsoft Edge is highlighted.](media/default-apps-web-browser-choose-an-app.png "Choose an app")
 
 12. Close the **Default apps** dialog.
+-->
+9. Install edge or chrome in the VM
 
 ### Task 4: Download and install Power BI Desktop
 
