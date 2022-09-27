@@ -163,4 +163,5 @@ Power BI desktop is required to make a connection to your Azure Synapse Analytic
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) on your VM.
 
 You should follow all steps provided _before_ performing the Hands-on lab.
+
 2. Install .Net 5 in the VM https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-5.0.17-windows-x64-installer
