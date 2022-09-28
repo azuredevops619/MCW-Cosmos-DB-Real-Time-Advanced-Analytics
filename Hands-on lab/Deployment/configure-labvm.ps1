@@ -15,7 +15,7 @@ function Disable-InternetExplorerESC {
 Disable-InternetExplorerESC
 
 # Download and extract the starter solution files
-Invoke-WebRequest 'https://github.com/microsoft/MCW-Cosmos-DB-Real-Time-Advanced-Analytics/archive/main.zip' -OutFile 'C:\MCW.zip'
+Invoke-WebRequest 'https://github.com/azuredevops619/MCW-Real-Time-Advanced-Analytics/archive/refs/heads/main.zip' -OutFile 'C:\MCW.zip'
 Expand-Archive -LiteralPath 'C:\MCW.zip' -DestinationPath 'C:\CosmosMCW' -Force
 
 # Download and istall Microsoft Edge
