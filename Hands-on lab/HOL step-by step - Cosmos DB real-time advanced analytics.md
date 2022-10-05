@@ -327,7 +327,7 @@ We will be exploring files in the Synapse Analytics workspace's primary ADLS Gen
 
     ![The add button is highlighted.](media/role-assignments-add-button.png "Add")
 
-5. In the add role assignment form, select the **Storage Blob Data Contributor** role, -> click next -> search for and select your Azure user account from **+ select member** option , then select **Save**.
+5. In the add role assignment form, select the **Storage Blob Data Contributor** role, -> click next -> search for and select your Azure user account from **+ select member** option , then select **assign** till it saves.
 
    ![The add button is highlighted.](media/rights-allocation-role.png "Add")
    ![The add button is highlighted.](media/rights-allocation.png "Add")
