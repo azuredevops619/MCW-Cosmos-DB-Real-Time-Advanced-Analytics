@@ -329,6 +329,10 @@ We will be exploring files in the Synapse Analytics workspace's primary ADLS Gen
 
 5. In the add role assignment form, select the **Storage Blob Data Contributor** role, -> click next -> search for and select your Azure user account from **+ select member** option , then select **Save**.
 
+   ![The add button is highlighted.](media/rights-allocation-role.png "Add")
+   ![The add button is highlighted.](media/rights-allocation.png "Add")
+
+
 ### Task 2: Open Synapse Studio
 
 1. In the Azure Portal, navigate to the **Resource Group** created for this hands-on lab, then navigate to the **Synapse Analytics workspace** resource.
