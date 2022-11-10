@@ -1520,6 +1520,14 @@ In this task, you will use the Synapse SQL Serverless service endpoint to connec
 17. Select a blank area on the report to deselect the donut chart. Now select the **Map** visualization. Drag the `ipCountryCode` field from the `SuspiciousTransactions` view under **Location**, then drag `isSuspicious` under **Size**.
 
     ![Screenshot of the Map visualization settings.](media/power-bi-map.png "Map settings")
+    
+    
+    Note: Enable Use Map and Filled Map visuals option from File -> Options and settings -> Options -> Security
+    
+    ![Screenshot of the Map visualization settings.](media/4.png "Map settings")
+    ![Screenshot of the Map visualization settings.](media/3.png "Map settings")
+    
+    Click on Refresh on the top.  
 
 18. The map should look similar to the following, showing circles of varying sizes on different regions of the map. The larger the circle, the more suspicious transactions there are in that region. You may also resize the charts to optimize your layout:
 
