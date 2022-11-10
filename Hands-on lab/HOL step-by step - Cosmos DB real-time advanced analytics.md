@@ -538,7 +538,7 @@ In this task, you create a new Azure Machine Learning datastore that points to t
 
     ![The option to launch Azure Machine Learning Studio is selected.](media/azure-ml-launch.png "Launch studio")
 
-4. In the Azure Machine Learning studio, select the **Datastores** option in the Manage tab. Then, select the **+ New datastore** option.
+4. In the Azure Machine Learning studio, select the **Datastores** option in the Data tab. Then, select the **+ Create** option.
 
     ![The option to create a new datastore is selected.](media/azure-ml-new-datastore.png "New datastore")
 
