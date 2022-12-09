@@ -111,18 +111,6 @@ Finally, Azure Key Vault is used to securely store secrets, such as account keys
 
 > **Note**: The preferred solution is only one of many possible, viable approaches.
 
-## Requirements
-
-- Microsoft Azure subscription (non-Microsoft subscription, must be a pay-as-you-go subscription).
-- Power BI pro license (optional)
-- Local machine or a virtual machine configured with (**complete the day before the lab!**):
-  - Visual Studio Community 2019 or greater.
-    - <https://www.visualstudio.com/vs/>
-  - Azure development workload for Visual Studio.
-    - <https://docs.microsoft.com/azure/azure-functions/functions-develop-vs#prerequisites>
-  - .NET 5.0 or greater.
-    - <https://www.microsoft.com/net/download/windows>
-
 ## Exercise 1: Collecting streaming transaction data
 
 Duration: 30 minutes
