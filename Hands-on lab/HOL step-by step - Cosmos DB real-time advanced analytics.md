@@ -675,9 +675,9 @@ To do this you will create a Synapse Analytics pipeline with a copy activity. Sy
 
     ![The new button is highlighted.](media/new-linked-service.png "Linked services")
 
-3. Select **Azure Cosmos DB (SQL API)**, then select **Continue** (make sure you do not select the MongoDB API).
+3. Select **Azure Cosmos DB for NoSQL**, then select **Continue** (make sure you do not select the MongoDB API).
 
-    ![The Cosmos DB SQL API is selected.](media/new-linked-service-cosmos.png "New linked service")
+    ![The Cosmos DB SQL API is selected.](media/new-linked-service-cosmos-new.png "New linked service")
 
 4. In the New linked service form, complete the following, test the connection, and then select **Create**:
 
